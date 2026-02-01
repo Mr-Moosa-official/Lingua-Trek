@@ -13,10 +13,12 @@ import {
 import {
   Mountain,
   LayoutDashboard,
-  BookText,
+  BookMarked,
   MessageSquare,
   Languages,
   Mic,
+  Users,
+  BookOpen,
 } from "lucide-react";
 
 export const navItems = [
@@ -26,9 +28,19 @@ export const navItems = [
     icon: LayoutDashboard,
   },
   {
+    href: "/courses",
+    label: "Courses",
+    icon: BookOpen,
+  },
+  {
+    href: "/workshops",
+    label: "Workshops",
+    icon: Users,
+  },
+  {
     href: "/phrasebook",
     label: "Phrasebook",
-    icon: BookText,
+    icon: BookMarked,
   },
   {
     href: "/dialogues",
