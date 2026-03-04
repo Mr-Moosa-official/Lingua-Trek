@@ -11,7 +11,7 @@ Lingua Trek helps travelers:
 
 Learn essential phrases with audio pronunciation
 
-Practice real-life travel conversations
+Practice real-life travel conversations 
 
 Understand local idioms and cultural context
 
