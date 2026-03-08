@@ -7,7 +7,7 @@ Lingua Trek focuses on practical communication, not just vocabulary.
 
 🚀 What Lingua Trek Does
 
-Lingua Trek helps travelers:
+Lingua Trek  helps travelers:
 
 Learn essential phrases with audio pronunciation
 
